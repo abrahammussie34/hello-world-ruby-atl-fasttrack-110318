@@ -1,8 +1,8 @@
-def badge_maker(name)
-  puts ("hello, my name is " + name)
-end
+#def badge_maker(name)
+#  puts ("hello, my name is " + name)
+#end
 
-badge_maker("Ariel")
+#badge_maker("Ariel")
 
 def batch_badge_creator[names]
   names[Edsger,Ada,Charles,Alan,Grace,Linus,Matz]
