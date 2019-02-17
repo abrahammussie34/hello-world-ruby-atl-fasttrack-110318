@@ -4,8 +4,8 @@
 
 #badge_maker("Ariel")
 
-  Array = ["Edsger,Ada,Charles,Alan,Grace,Linus,Matz]
-  puts batch_badge_creator + Array[1]
+  Array = ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
+  puts  Array[1]
 
 
 #def assign_room[]
