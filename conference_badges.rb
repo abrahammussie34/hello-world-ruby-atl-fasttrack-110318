@@ -9,4 +9,4 @@ def batch_badge_creator[names]
   puts 
 end
 
-batch_badge_creator
+batch_badge_creator[]
