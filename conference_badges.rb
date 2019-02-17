@@ -4,13 +4,11 @@
 
 #badge_maker("Ariel")
 
-def batch_badge_creator[name]
+batch_badge_creator[name]
   name[Edsger,Ada,Charles,Alan,Grace,Linus,Matz]
-  puts batch_badge_creator + name
-end
+  puts batch_badge_creator + name[1]
 
-batch_badge_creator[1]
 
-def assign_room
+def assign_room[]
 
 end
