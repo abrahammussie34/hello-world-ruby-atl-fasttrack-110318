@@ -9,6 +9,6 @@ batch_badge_creator[name]
   puts batch_badge_creator + name[1]
 
 
-def assign_room[]
+#def assign_room[]
 
-end
+#end
