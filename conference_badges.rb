@@ -4,8 +4,7 @@
 
 #badge_maker("Ariel")
 
-batch_badge_creator[Array]
-  Array = [Edsger,Ada,Charles,Alan,Grace,Linus,Matz]
+  Array = ["Edsger,Ada,Charles,Alan,Grace,Linus,Matz]
   puts batch_badge_creator + Array[1]
 
 
