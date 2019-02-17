@@ -4,4 +4,8 @@ end
 
 badge_maker("Ariel")
 
-def batch_badge_creator
+def batch_badge_creator[names]
+  puts 
+end
+
+batch_badge_creator
