@@ -4,8 +4,8 @@
 
 #badge_maker("Ariel")
 
-def batch_badge_creator[names]
-  names[Edsger,Ada,Charles,Alan,Grace,Linus,Matz]
+def batch_badge_creator[]
+  batch_badge_creator[Edsger,Ada,Charles,Alan,Grace,Linus,Matz]
   puts batch_badge_creator[names]
 end
 
