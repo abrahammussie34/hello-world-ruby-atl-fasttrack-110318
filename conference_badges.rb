@@ -5,7 +5,8 @@ end
 badge_maker("Ariel")
 
 def batch_badge_creator["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
-  puts batch_badge_creator[]
+  creator
+  puts batch_badge_creator[index]
 end
 
 batch_badge_creator[1]
