@@ -10,3 +10,7 @@ def batch_badge_creator[name]
 end
 
 batch_badge_creator[1]
+
+def 
+
+end
