@@ -3,3 +3,5 @@ def badge_maker(name)
 end
 
 badge_maker("Ariel")
+
+def badge_maker
