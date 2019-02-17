@@ -10,5 +10,5 @@ batch_badge_creator[Array]
 
 
 #def assign_room[]
-  return ("Hello," + + "! You")
+  return ("Hello," + + "! You'll be ")
 #end
